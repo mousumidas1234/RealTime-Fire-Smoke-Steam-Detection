@@ -1,0 +1,8 @@
+{
+  "name": "Fire / Smoke / Steam YOLO dataset",
+  "format": "YOLO detection",
+  "classes": ["fire", "smoke", "steam"],
+  "source": "Kaggle/Roboflow export supplied by project owner",
+  "status": "Dataset directory is ready for a labelled export and training",
+  "notes": "Place images and matching YOLO .txt labels in images/{train,val,test} and labels/{train,val,test}; run python train.py. Do not use unlabelled internet images for safety-model training."
+}

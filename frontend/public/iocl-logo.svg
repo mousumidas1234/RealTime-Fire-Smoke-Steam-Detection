@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 120" role="img" aria-labelledby="title desc">
+  <title id="title">IndianOil corporate logo</title>
+  <desc id="desc">The Indian Oil Corporation Limited orange and blue corporate emblem with IndianOil wordmark.</desc>
+  <rect width="260" height="120" fill="#ffffff"/>
+  <g transform="translate(12 8)">
+    <circle cx="52" cy="48" r="43" fill="#f58220" stroke="#003b70" stroke-width="5"/>
+    <path d="M12 34h80v28H12z" fill="#003b70"/>
+    <text x="52" y="53" text-anchor="middle" font-family="Noto Sans Devanagari, Mangal, sans-serif" font-size="14" font-weight="700" fill="#fff">इंडियनऑयल</text>
+    <text x="52" y="101" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#003b70">IndianOil</text>
+  </g>
+  <text x="123" y="53" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#003b70">IndianOil</text>
+  <text x="124" y="77" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.4" fill="#f58220">SAFETY VISION</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">IOCL icon</title>
+  <desc id="desc">Orange and blue IOCL brand mark for browser tabs.</desc>
+  <rect width="64" height="64" rx="14" fill="#ffffff"/>
+  <circle cx="32" cy="32" r="24" fill="#f58220" stroke="#003c71" stroke-width="4"/>
+  <path d="M17 25h30v14H17z" fill="#003c71"/>
+  <path d="M26 25c0-4.5 3.6-8 8-8s8 3.5 8 8c0 2.5-1.2 4.8-3.1 6.2L34 36l-4.9-4c-1.9-1.4-3.1-3.7-3.1-6.2Z" fill="#ffffff" opacity="0.95"/>
+  <path d="M26 39c3.4 2.6 8.6 2.6 12 0" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+</svg>

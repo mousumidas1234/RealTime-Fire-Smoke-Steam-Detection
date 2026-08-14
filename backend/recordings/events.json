@@ -1,0 +1,39 @@
+[
+  {
+    "id": "bc455918be24",
+    "timestamp": "2026-07-28T09:37:53.487746+00:00",
+    "detections": [
+      {
+        "type": "fire",
+        "confidence": 0.483,
+        "bbox": [
+          140,
+          369,
+          46,
+          62
+        ]
+      },
+      {
+        "type": "fire",
+        "confidence": 0.478,
+        "bbox": [
+          139,
+          364,
+          97,
+          69
+        ]
+      },
+      {
+        "type": "smoke",
+        "confidence": 0.376,
+        "bbox": [
+          149,
+          165,
+          189,
+          218
+        ]
+      }
+    ],
+    "image_url": "/recordings/bc455918be24.jpg"
+  }
+]
